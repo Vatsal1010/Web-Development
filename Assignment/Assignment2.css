@@ -1,0 +1,44 @@
+#navbar-bg{
+  background-color: aqua;
+  padding: 0.5px;
+}
+#button-nav{
+  background-color: aliceblue ;
+}
+#button-nav:hover{
+  background-color: blanchedalmond;
+  box-shadow:1px 1px #888888;
+}
+h2{
+  padding: 20px;
+  font-weight: bold;
+}
+h1{
+  font-weight: bolder;
+}
+
+body {
+  background-color:#e7e86b;
+  font-family: font-family: Helvetica, Arial, sans-serif;;
+}
+#pani-puri{
+  background-color:#e7e86b;
+  width: 90%; 
+  height: auto;
+  padding:10px;
+  text-align:center;
+}
+#sev-puri{ 
+  background-color:#e7e86b;
+  width: 90%; 
+  height: auto;
+  padding:10px;
+  text-align:center;
+}
+#bhel-puri{
+  background-color:#e7e86b;
+  width: 90%; 
+  height: auto; 
+  padding:10px;
+  text-align:center;
+}
